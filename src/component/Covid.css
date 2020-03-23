@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height: 100%;
+    background-color: #CECECE;
+}
+.container{
+    margin-top: 8%;
+}
+.container-data{
+    font-size: 20px;
+    text-align: center;
+  
+}
+.thailand{
+    width: 250px;
+    height: 200px;
+    border-radius:5%;
+}
+.footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+    background-color: #222222;
+    color:whitesmoke;
+}
